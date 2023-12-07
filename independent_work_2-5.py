@@ -1,5 +1,3 @@
-a, b, c = list([7, "декабря", 2023])
-print(f"Сегодня {a} {b} {c}. ", end="Всего хорошего!")
-#PS
-# в две строки у меня не получается использовать текущую дату с использованием модуля import datetime,
-# поэтому вывожу текущую дату на момент решения самостоятельной работы
+import datetime
+d, m, y = list([datetime.datetime.now().day, datetime.datetime.now().strftime("%B"), datetime.datetime.now().year])
+print(f"Сегодня {d} {m} {y}. ", end="Всего хорошего!")
