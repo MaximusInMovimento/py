@@ -1,2 +1,2 @@
-lie = 2 * 2 == 5
-print(lie)
+lie = None
+print(bool(lie))
