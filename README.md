@@ -7,3 +7,4 @@
 * Тема 5 https://github.com/MaximusInMovimento/py/tree/5-collections
 * Тема 6 https://github.com/MaximusInMovimento/py/tree/6-dictionaries
 * Тема 7 https://github.com/MaximusInMovimento/py/tree/7-files
+* Тема 7 https://github.com/MaximusInMovimento/py/tree/8-oop
