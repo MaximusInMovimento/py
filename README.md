@@ -9,3 +9,4 @@
 * Тема 7 https://github.com/MaximusInMovimento/py/tree/7-files
 * Тема 8 https://github.com/MaximusInMovimento/py/tree/8-oop
 * Тема 9 https://github.com/MaximusInMovimento/py/tree/9-oop-ex
+* Тема 10 https://github.com/MaximusInMovimento/py/tree/10-decor
